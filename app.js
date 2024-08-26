@@ -1,4 +1,3 @@
-/* eslint-disable no-unused-expressions */
 const express = require('express');
 const router = require('./routes/people');
 
