@@ -1,19 +1,19 @@
 const people = [
   {
+    id: 1,
     name: 'Dumisani',
-    id: 34,
   },
   {
+    id: 2,
     name: 'Mama',
-    id: 86,
   },
   {
+    id: 3,
     name: 'Lebogang',
-    id: 38,
   },
   {
+    id: 4,
     name: 'Tshepo',
-    id: 41,
   },
 ];
 
